@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.*;
 class MainTest {
 
     @Test
-    void main() {
+    void find() {
 
         /** Тесты на проверку работы метода find*/
         int[][] array1 = new int[][]{{1,3,5,7,32},{5,6,2,4,35},{3,54,7,9,88},{4,2,1,1,45},{2,3,4,8,85}};
